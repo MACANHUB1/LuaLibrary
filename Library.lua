@@ -252,7 +252,7 @@
 				BorderColor3 = rgb(0, 0, 0),
 				Size = dim2(1, 0, 1, 0),
 				BorderSizePixel = 0,
-				BackgroundColor3 = themes.preset.accent,
+				BackgroundColor3 = rgb(0,0,0),
 				ZIndex = 1;
 			}) library:apply_theme(hover_instance, "accent", "BackgroundColor3") 
 
